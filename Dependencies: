@@ -1,3 +1,0 @@
-npx create-react-app kmt-app
-cd kmt-app
-npm install tailwindcss xlsx jspdf jspdf-autotable react-hook-form react-dropzone
